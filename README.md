@@ -1,4 +1,4 @@
-# Tugas-Delegate-dan-Event
-- Tugas Pertemuan 8 Deletage dan event
-- Nama : Dimas Ardhito
-- Nim : 21.11.4043
+# TugasDelegateDanEvent #
+- Tugas Pertemuan 8 Mata Kuliah Pemrograman lanjut
+- Nama: Dimas Ardhito
+- Nim: 21.11.4043
